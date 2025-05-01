@@ -1,6 +1,6 @@
 import hashlib
 import json
-
+from sage.all import *
 import pwn
 from Crypto.Cipher import AES
 
